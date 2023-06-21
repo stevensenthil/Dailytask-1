@@ -1,0 +1,9 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.bg-img{
+	background-image:linear-gradient(#00000063,#00000063),url("images/corp-why.jpg");
+	background-size:cover!important;
+}
